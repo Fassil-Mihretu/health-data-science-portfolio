@@ -13,27 +13,45 @@
 - Surgical Outcomes
 - Clinical Predictive Analytics
 - Machine Learning in Healthcare
+  
+---
 
-## 📘 Publications
+  ## 💻 Technical Skills
+
+### 📊 Data Science & Analytics
+- Python (Pandas, NumPy, Scikit-learn)
+- STATA / SPSS
+- SQL
+- Machine Learning
+- Generalized Estimating Equation (GEE)
+- Power BI
+🔗 Project Repository:
+
+### 🌐 Web & Digital Health Development
+- JavaScript
+- HTML5
+- CSS3
+- Health Management System (HMS) Development
+
+### 📚 Research & Methodology
+- Epidemiological Study Design
+- Multicenter Longitudinal Studies
+- Clinical Data Modeling
+- Biostatistical Analysis
+
+----
+
+  ## 📘 Publications
 
 ### 🧠 Severity and Associated Factors of Postoperative Pain in Pediatric Surgical Patients
 - Multicenter Prospective Longitudinal Study
 - Sample Size: 235
 - Statistical Model: Generalized Estimating Equation (GEE)
 - Software: STATA
+🔗 Project Repository:
 
-🔗 Project Repository:  
 
-## 💻 Technical Skills
-
-- Python (Pandas, NumPy, Scikit-learn)
-- STATA / SPSS
-- SQL
-- Machine Learning
-- GEE Modeling/Advaned Biostatstical 
-- Power BI
-- Epidemiological Study Design
-
+---
 ## 📫 Contact
 
 📧 Email: (fasilmihretu@gmail.com)  
